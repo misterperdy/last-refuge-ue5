@@ -9,7 +9,10 @@ cerinte : https://docs.google.com/document/d/1Lo0bSy6oQGXzbq0_x5s8TZE4bc40u41TkJ
 
 ## Etapa 0 : 
 
-documentatie - https://docs.google.com/document/d/1Mun19G6NaT74lQQPcJOVQSSe_fQFITafZQ2K5VdbvEY/edit?tab=t.0#heading=h.n5d9njl7bq19
+descriere plan proiect - https://docs.google.com/document/d/1Mun19G6NaT74lQQPcJOVQSSe_fQFITafZQ2K5VdbvEY/edit?tab=t.0#heading=h.n5d9njl7bq19
 
 
 ## Etapa 1 :
+
+<img width="767" height="732" alt="image" src="https://github.com/user-attachments/assets/9f330c9b-e59d-4a21-a12c-c3f155345d75" />
+
