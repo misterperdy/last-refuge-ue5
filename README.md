@@ -11,15 +11,26 @@ cerinte : https://docs.google.com/document/d/1Lo0bSy6oQGXzbq0_x5s8TZE4bc40u41TkJ
 
 descriere plan proiect - https://docs.google.com/document/d/1Mun19G6NaT74lQQPcJOVQSSe_fQFITafZQ2K5VdbvEY/edit?tab=t.0#heading=h.n5d9njl7bq19
 
+Punctaj: 0.5
 
 ## Etapa 1 :
 
 <img width="767" height="732" alt="image" src="https://github.com/user-attachments/assets/9f330c9b-e59d-4a21-a12c-c3f155345d75" />
 
+Punctaj: 0.75 bonus neaplicat + 0.5 = 0.8625 + 0.5 = 1.3625
+
 ## Etapa 2 :
 
 <img width="804" height="791" alt="image" src="https://github.com/user-attachments/assets/8cd1479f-fbc9-49da-80ed-1f7435036985" />
 
+Punctaj: -
+
 ## Etapa 3 :
 
 <img width="804" height="510" alt="image" src="https://github.com/user-attachments/assets/799b0e55-4291-4768-b7ef-d08a545e69c0" />
+
+Punctaj: -
+
+## Punctaj Total
+
+1.8625/6p
