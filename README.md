@@ -19,3 +19,7 @@ descriere plan proiect - https://docs.google.com/document/d/1Mun19G6NaT74lQQPcJO
 ## Etapa 2 :
 
 <img width="804" height="791" alt="image" src="https://github.com/user-attachments/assets/8cd1479f-fbc9-49da-80ed-1f7435036985" />
+
+## Etapa 3 :
+
+<img width="804" height="510" alt="image" src="https://github.com/user-attachments/assets/799b0e55-4291-4768-b7ef-d08a545e69c0" />
