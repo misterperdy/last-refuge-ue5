@@ -31,6 +31,18 @@ Punctaj: -
 
 Punctaj: -
 
+## Etapa 4 :
+
+<img width="790" height="899" alt="image" src="https://github.com/user-attachments/assets/9a5d3b37-f3e3-466b-ba6c-47dbd4513b8f" />
+
+Punctaj: -
+
+## Etapa 5:
+
+<img width="783" height="599" alt="image" src="https://github.com/user-attachments/assets/55776169-8743-44b3-b06a-34dbeb3855b9" />
+
+Punctaj: -
+
 ## Punctaj Total
 
 1.8625/6p
