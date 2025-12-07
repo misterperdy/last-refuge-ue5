@@ -39,7 +39,7 @@ Punctaj: -
 
 ## Etapa 5:
 
-<img width="783" height="599" alt="image" src="https://github.com/user-attachments/assets/55776169-8743-44b3-b06a-34dbeb3855b9" />
+<img width="783" height="599" alt="image" src="https://github.com/user-attachments/assets/6beb06a9-fc09-4712-acef-690364893834" />
 
 Punctaj: -
 
