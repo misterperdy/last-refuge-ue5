@@ -1,10 +1,10 @@
 ## Proiect UE5 - Last Refuge - survival open-world game
 
-
 ### Matei Alexandru Antonie, gr342, FMI unibuc
 
+Documentatie: https://docs.google.com/document/d/183ZGDCa_OMaz7BP0O1wJytIremeFNCLlCEWqLlUeLm4/edit?usp=sharing
 
-cerinte : https://docs.google.com/document/d/1Lo0bSy6oQGXzbq0_x5s8TZE4bc40u41TkJwLObTVf6I/edit?tab=t.0
+Cerinte: https://docs.google.com/document/d/1Lo0bSy6oQGXzbq0_x5s8TZE4bc40u41TkJwLObTVf6I/edit?tab=t.0
 
 
 ## Etapa 0 : 
